@@ -1,0 +1,15 @@
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(230, 174, 105);
+display:flex;
+}
+
+.left{
+    background-color: rebeccapurple;
+    width: 140px;
+}
+.right{
+    background-color: chartreuse;
+    width: 140px;
+margin-left: auto;}
